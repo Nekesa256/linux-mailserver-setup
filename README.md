@@ -5,7 +5,7 @@ A secure Linux mail server deployment featuring custom-branded webmail client mo
 To ensure an optimal user experience aligned with organizational standards, a UI/UX evaluation phase was conducted to test competing webmail designs. 
 
 ### Interface Comparison
-* **Elastic22:** Evaluated for its modern, responsive grid layout and native mobile optimization. 
+* **Elastic2022:** Evaluated for its modern, responsive grid layout and native mobile optimization. 
 * **Workbench:** Selected by the organization as the production standard due to its clean layout, corporate aesthetics, and superior structure for deep customization.
 
 ### Customization Scope
